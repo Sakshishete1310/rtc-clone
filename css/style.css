@@ -1,0 +1,126 @@
+*{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0px;
+    background-color: #f8f9fa;
+}
+.nav1
+    {
+        background-color: #fae5cf;
+        text-align: center;
+        padding: 12px;
+        
+     }
+a{
+    text-decoration: none;
+    color: black;
+} 
+.link{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(137, 135, 135);  
+}  
+.navbar{
+ padding: 10px;
+     display: inline-flex;
+     margin: 0px;
+}
+.img{
+          height: 400px;
+          padding-right: 100px;
+          margin-left:130px ;
+          border-radius: 50%;   
+        }
+        .container{
+            display:inline-flex;
+
+        }
+        .contain1{
+           font-size: 40px;
+           padding-top: 100px;
+           font-family:Arial, Helvetica, sans-serif;
+        }
+        .contain2{
+             font-size: 25px;
+             color: rgb(158, 161, 164);
+             padding-top: 20px;
+             margin-top: 50px;
+        }
+        .btn{
+           background-color: #000000;
+           color: white;
+            font-size: 20px;
+            border-radius: 5px;
+            margin: 10px;
+            padding: 10px;
+            border: none;
+        }
+        .p{ 
+            font-size: 30px;
+            padding-left: 50px;
+            font-family:Arial, Helvetica, sans-serif;
+        }
+       .text2{
+           font-family:Arial, Helvetica, sans-serif;
+           font-size: 20px;
+       }
+       .box1{
+           display: inline-block;
+           padding: 15px;
+           margin: 10px;
+           margin-left: 50px;
+           box-shadow: 0px 0px 1px 0px black;
+           background-color: white;
+           height: auto;
+           width: 400px;
+       }
+       .co-box{
+           width: 400px;
+           padding: 10px;
+           border-radius: 10px;
+           display: inline-block;
+           border-bottom: 5px solid rgb(44, 113, 224);
+           box-shadow: 0 0  2px 0 black;
+           /* border: 2px solid black; */
+           margin-left: 50px;
+           margin-top: 20px;
+       
+       }
+       .co-img1{
+          width: 400px;
+       
+       }
+       .co-text1{
+           font-size: 50px;
+           text-align: center;
+       }
+       .co-img2{
+           height: 25px;
+       }
+       .co-text2{
+           color: #585353;
+       }
+       .co-text3{
+           font-size: 20px;
+           color: #585353;
+       }
+       .co-text4{
+            font-size: 25px;
+           border-bottom: 3px double green ;
+           width: 200px;
+           text-align: center;
+           margin-left: 70px;
+       }
+       .co-btn{
+           background-color: #000000;
+           color: white;
+           display: block;
+           margin-right: auto;
+           margin-left: auto;
+           border-radius: 5px;
+           font-size: 15px;
+           padding: 10px;
+       
+       }
+       
